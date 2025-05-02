@@ -108,7 +108,7 @@ conn.close()
 server_socket.close()
 ```
 OUTPUT :
-![Uploading WhatsApp Image 2025-05-02 at 23.03.57_74b9b3f5.jpg…]()
+![WhatsApp Image 2025-05-02 at 23 03 57_74b9b3f5](https://github.com/user-attachments/assets/daa0fe7d-7361-49f3-af2a-bad2464aa7ba)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
